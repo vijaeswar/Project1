@@ -1,0 +1,120 @@
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - This is a console based application
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - ===========================
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - Welcome to e-mall online shopping
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - ===========================
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - 1)Login as Employee?
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - 2)Login as Customer?
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - 4)E.X.I.T
+[main] 2021-08-24 23:53:24 INFO  com.app.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-24 23:54:42 INFO  com.app.Main.Main  - 
+ Thanks for willing to join the e-mall family
+[main] 2021-08-24 23:54:42 INFO  com.app.Main.Main  - ENTER YOUR ID
+[main] 2021-08-24 23:54:53 INFO  com.app.Main.Main  - ENTER YOUR NAME
+[main] 2021-08-24 23:54:58 INFO  com.app.Main.Main  - ENTER YOUR VALID EMAIL
+[main] 2021-08-24 23:55:10 INFO  com.app.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
+[main] 2021-08-24 23:55:10 INFO  com.app.Main.Main  - * At least one upper case alphabet
+[main] 2021-08-24 23:55:10 INFO  com.app.Main.Main  - * At least one lower case alphabet
+[main] 2021-08-24 23:55:10 INFO  com.app.Main.Main  - * At least one digit
+[main] 2021-08-24 23:55:10 INFO  com.app.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
+[main] 2021-08-24 23:55:10 INFO  com.app.Main.Main  - * No white spaces
+[main] 2021-08-24 23:55:10 INFO  com.app.Main.Main  - 
+ ENTER YOUR PASSWORD
+[main] 2021-08-24 23:55:33 INFO  com.app.Main.Main  - Thank you for providing the details
+[main] 2021-08-24 23:55:34 INFO  com.app.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-24 23:55:34 INFO  com.app.Main.Main  - 1)Login as Employee?
+[main] 2021-08-24 23:55:34 INFO  com.app.Main.Main  - 2)Login as Customer?
+[main] 2021-08-24 23:55:34 INFO  com.app.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-24 23:55:34 INFO  com.app.Main.Main  - 4)E.X.I.T
+[main] 2021-08-24 23:55:34 INFO  com.app.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-24 23:55:43 INFO  com.app.Main.Main  - -----------------------
+[main] 2021-08-24 23:55:43 INFO  com.app.Main.Main  - ENTER YOUR EMAIL
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - This is a console based application
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - ===========================
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - Welcome to e-mall online shopping
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - ===========================
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - 1)Login as Employee?
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - 2)Login as Customer?
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - 4)E.X.I.T
+[main] 2021-08-25 00:12:44 INFO  com.app.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-25 00:12:56 INFO  com.app.Main.Main  - -----------------------
+[main] 2021-08-25 00:12:56 INFO  com.app.Main.Main  - ENTER YOUR EMAIL
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - This is a console based application
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - ===========================
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - Welcome to e-mall online shopping
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - ===========================
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - 1)Login as Employee?
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - 2)Login as Customer?
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - 4)E.X.I.T
+[main] 2021-08-25 00:13:08 INFO  com.app.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-25 00:13:40 INFO  com.app.Main.Main  - 
+ Thanks for willing to join the e-mall family
+[main] 2021-08-25 00:13:40 INFO  com.app.Main.Main  - ENTER YOUR ID
+[main] 2021-08-25 00:13:47 INFO  com.app.Main.Main  - ENTER YOUR NAME
+[main] 2021-08-25 00:13:53 INFO  com.app.Main.Main  - ENTER YOUR VALID EMAIL
+[main] 2021-08-25 00:14:03 INFO  com.app.Main.Main  - A PASSWORD IS CONSIDERED VALID IF IT HAS
+[main] 2021-08-25 00:14:03 INFO  com.app.Main.Main  - * At least one upper case alphabet
+[main] 2021-08-25 00:14:03 INFO  com.app.Main.Main  - * At least one lower case alphabet
+[main] 2021-08-25 00:14:03 INFO  com.app.Main.Main  - * At least one digit
+[main] 2021-08-25 00:14:03 INFO  com.app.Main.Main  - * At least one special character symbol whih includes !@#$%&*()
+[main] 2021-08-25 00:14:03 INFO  com.app.Main.Main  - * No white spaces
+[main] 2021-08-25 00:14:03 INFO  com.app.Main.Main  - 
+ ENTER YOUR PASSWORD
+[main] 2021-08-25 00:14:12 INFO  com.app.Main.Main  - Thank you for providing the details
+[main] 2021-08-25 00:14:13 INFO  com.app.Main.Main  - Your account is registered successfully with e-mall
+[main] 2021-08-25 00:14:13 INFO  com.app.Main.Main  - Customer customerId=123, customerName=vijay, customerEmail=vijay@gmail.com
+[main] 2021-08-25 00:14:13 INFO  com.app.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-25 00:14:13 INFO  com.app.Main.Main  - 1)Login as Employee?
+[main] 2021-08-25 00:14:13 INFO  com.app.Main.Main  - 2)Login as Customer?
+[main] 2021-08-25 00:14:13 INFO  com.app.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-25 00:14:13 INFO  com.app.Main.Main  - 4)E.X.I.T
+[main] 2021-08-25 00:14:13 INFO  com.app.Main.Main  - Enter Your Choice here 1-4
+[main] 2021-08-25 00:16:41 INFO  com.app.Main.Main  - -----------------------
+[main] 2021-08-25 00:16:41 INFO  com.app.Main.Main  - ENTER YOUR EMAIL
+[main] 2021-08-25 00:16:56 INFO  com.app.Main.Main  - ENTER YOUR PASSWORD
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - -----------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - -----------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - ----Logged In successfully----
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - 
+--Welcome back to e-mall----
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - 
+--search and shop quickly---
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - 
+----------------------------------------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - | 1. View all the available products                 |
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - ------------------------------------------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - | 2. Add a product to the Cart                       |
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - ------------------------------------------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - | 3. View the Cart with product list and total       |
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - ------------------------------------------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - | 4. PLace orders on the items in the Cart           |
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - ------------------------------------------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - | 5. Mark the order as received                      |
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - ------------------------------------------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - | 6. View all my orders and it's status              |
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - ------------------------------------------------------
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - | 7. Logout                                          |
+[main] 2021-08-25 00:17:06 INFO  com.app.Main.Main  - ------------------------------------------------------
+[main] 2021-08-25 00:17:19 INFO  com.app.Main.Main  - -----------------------
+[main] 2021-08-25 00:17:19 INFO  com.app.Main.Main  - Enter the Product Id to add in the Cart
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - This is a console based application
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - ===========================
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - Welcome to e-mall online shopping
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - ===========================
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - 
+ What's in your mind?
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - 1)Login as Employee?
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - 2)Login as Customer?
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - 3)New to e-mall? Register Here as a customer!
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - 4)E.X.I.T
+[main] 2021-08-25 00:31:11 INFO  com.app.Main.Main  - Enter Your Choice here 1-4
