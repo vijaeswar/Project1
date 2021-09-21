@@ -12,3 +12,11 @@ my project is about the online shopping app where customers can login and custom
   * Junit
   * Maven
   * Log4j
+
+# Features 
+
+  * The customer register and employee login
+  * customer login
+  * customer search,showing list of orders ,place an order,add product to cart
+  * list of items in cart
+  * tested the app using Junit
